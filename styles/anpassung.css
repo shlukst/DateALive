@@ -121,12 +121,6 @@
         width: 681.7px;
         transition: .2s;
     }
-
-    .uwu
-    {
-        bottom: 50px;
-        transition: .2s;
-    }
 }
 
 @media(max-width: 850px)
@@ -142,12 +136,6 @@
         width: 533.85px;
         transition: .2s;
     }
-
-    .uwu
-    {
-        bottom: 150px;
-        transition: .2s;
-    }
 }
 
 @media(max-width: 640px)
@@ -161,12 +149,6 @@
     .unter
     {
         width: 355.85px;
-        transition: .2s;
-    }
-
-        .uwu
-    {
-        bottom: 250px;
         transition: .2s;
     }
 }
