@@ -83,6 +83,7 @@
         flex-direction: column;
         flex-shrink: 0;
         transition: .2s;
+        
     }
 
     .kurumi-text
@@ -120,6 +121,12 @@
         width: 681.7px;
         transition: .2s;
     }
+
+    .uwu
+    {
+        bottom: 50px;
+        transition: .2s;
+    }
 }
 
 @media(max-width: 850px)
@@ -133,6 +140,12 @@
     .unter
     {
         width: 533.85px;
+        transition: .2s;
+    }
+
+    .uwu
+    {
+        bottom: 150px;
         transition: .2s;
     }
 }
