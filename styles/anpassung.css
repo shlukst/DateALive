@@ -1,0 +1,153 @@
+@media(max-width: 2006px)
+{
+    .uwu img
+    {
+        width: 240px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1950px)
+{
+    .hauptbild
+    {
+        margin-left: 400px;
+        transition: .2s;
+    }
+
+    .uwu img
+    {
+        width: 200px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1800px)
+{
+    .hauptbild
+    {
+        margin-left: 320px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1725px)
+{
+    .hauptbild
+    {
+        margin-left: 260px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1650px)
+{
+    .hauptbild
+    {
+        margin-left: 160px;
+        transition: .2s;
+    }
+
+    .uwu img
+    {
+        width: 150px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1550px)
+{
+    .hauptbild
+    {
+        margin-left: 80px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1457px)
+{
+    .hauptbild
+    {
+        margin-left: 0px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1305px)
+{
+    .box
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        flex-shrink: 0;
+        transition: .2s;
+    }
+
+    .kurumi-text
+    {
+        margin-right: 0px;
+        transition: .2s;
+    }
+
+    .uwu img
+    {
+        width: 130px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1050px)
+{
+    .uwu img
+    {
+        width: 110px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 1000px)
+{
+    .tokisaki
+    {
+        font-size: 100px;
+        transition: .2s;
+    }
+
+    .unter
+    {
+        width: 681.7px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 850px)
+{
+    .tokisaki
+    {
+        font-size: 75px;
+        transition: .2s;
+    }
+
+    .unter
+    {
+        width: 533.85px;
+        transition: .2s;
+    }
+}
+
+@media(max-width: 640px)
+{
+    .tokisaki
+    {
+        font-size: 50px;
+        transition: .2s;
+    }
+
+    .unter
+    {
+        width: 355.85px;
+        transition: .2s;
+    }
+}

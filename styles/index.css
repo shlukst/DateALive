@@ -1,0 +1,61 @@
+.box
+{
+    height: 1100px;
+    background-color: rgba(190, 48, 53, 0.95);
+}
+
+.hauptbild
+{
+    margin-left: 480px;
+}
+
+.tokisaki
+{
+    font-size: 120px;
+    font-family: 'Alata';
+    color: rgb(221, 212, 212);
+}
+
+.hauptbild img
+{
+    width: 450px;
+}
+
+body
+{
+    margin: 0;
+}
+
+.kurumi-text
+{
+    background-color: rgb(36, 36, 36);
+    margin-right: 50px;
+}
+
+.unter
+{
+    color: white;
+    font-family: 'Roboto';
+    position: absolute;
+    font-size: 20px;
+    width: 824.033px;
+    padding-top: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 82px;
+    background-color: rgb(36, 36, 36);
+}
+
+.uwu img
+{
+    width: 250px;
+    opacity: 0;
+    z-index: -1;
+}
+
+.uwu
+{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}

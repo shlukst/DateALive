@@ -1,0 +1,21 @@
+.box
+{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.hauptbild
+{
+    flex: 1;
+}
+
+.kurumi-text
+{
+    flex-shrink: 0;
+}
+
+.uwu
+{
+    display: flex;
+}
